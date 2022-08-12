@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hi testing Netlify and Github</h1>
       </header>
     </div>
   );
